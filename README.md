@@ -12,11 +12,10 @@ We have been getting used to using variables and declaring them. We have been de
 
 ___
 
-## `EBAY`
+## `DEV TOOLS AND EBAY`
 
-___
+This was the coolest thing ever. I learnt how to use DEV TOOLS and access the properties of a webpage. This is useful for seeing the code behind a webpage and manipulating certain components. We manipulated the price of a laptop on ebay and changed the picture. The shortcut to access DEV TOOLS on chrome is command + option + J.
 
-## `DEV TOOLS`
 
 ___
 
