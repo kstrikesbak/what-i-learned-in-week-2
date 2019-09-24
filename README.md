@@ -27,7 +27,7 @@ ___
 
 ## `BOXES AND DEV TOOLS`
 
-
+This activity was refreshing as Colin took the pain away by showing us how to use dev tools to copy the code needed for the boxes. Going to source is the best solution for this.. Command + option + I is shortcut that will take you straight there. 
 
 
 
