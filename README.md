@@ -16,12 +16,21 @@ ___
 
 This was the coolest thing ever. I learnt how to use DEV TOOLS and access the properties of a webpage. This is useful for seeing the code behind a webpage and manipulating certain components. We manipulated the price of a laptop on ebay and changed the picture. The shortcut to access DEV TOOLS on chrome is command + option + J.
 
-
 ___
 
 ## `BOXES CSS`
 
+We used repl and CSS to put boxes inside boxes. We were given a picture of the boxes and began styling with CSS to get as close as possible. We played around with paddings and margins. This was a difficult task and required quite a bit of patience. 
+
+
 ___
+
+## `BOXES AND DEV TOOLS`
+
+
+
+
+
 
 
 
